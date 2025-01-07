@@ -1,4 +1,4 @@
-Movie Title,Genre,gener_values
+Movie Title,Genre,genre_values
 Inception,"Sci-Fi, Action, Thriller","40%, 35%, 25%"
 The Dark Knight,"Action ,Drama, Crime"," 50%, 30%,  20%"
 Titanic,"Romance, Drama, Historical"," 50%, 40%, 10%"
